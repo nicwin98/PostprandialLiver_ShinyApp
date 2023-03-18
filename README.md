@@ -1,4 +1,4 @@
-
+[![DOI](https://zenodo.org/badge/615835262.svg)](https://zenodo.org/badge/latestdoi/615835262)
 
 # Postprandial Liver - Shiny App
 This app displays RNA sequencing data from human liver biopsies under postprandial or fasting conditions for healthy control, NAFLD patients, and cirrhosis patients. 
