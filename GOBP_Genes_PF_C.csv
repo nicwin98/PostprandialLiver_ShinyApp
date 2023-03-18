@@ -1,0 +1,42 @@
+Genes,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,geneID
+Down-regulated,GO:0019336,phenol-containing compound catabolic process,1/4,12/16344,0.0029338937011738064,0.04945901365652417,LRTOMT
+Down-regulated,GO:0042135,neurotransmitter catabolic process,1/4,12/16344,0.0029338937011738064,0.04945901365652417,LRTOMT
+Down-regulated,GO:1903818,positive regulation of voltage-gated potassium channel activity,1/4,16/16344,0.003910422123995838,0.04945901365652417,LRRC55
+Down-regulated,GO:0043011,myeloid dendritic cell differentiation,1/4,18/16344,0.004398417256174958,0.04945901365652417,CAMK4
+Down-regulated,GO:0060117,auditory receptor cell development,1/4,22/16344,0.005373869581785318,0.04945901365652417,LRTOMT
+Down-regulated,GO:0033081,regulation of T cell differentiation in thymus,1/4,24/16344,0.005861326863087379,0.04945901365652417,CAMK4
+Down-regulated,GO:1901018,positive regulation of potassium ion transmembrane transporter activity,1/4,26/16344,0.006348604948625325,0.04945901365652417,LRRC55
+Down-regulated,GO:0001773,myeloid dendritic cell activation,1/4,27/16344,0.0065921768067087605,0.04945901365652417,CAMK4
+Down-regulated,GO:0042133,neurotransmitter metabolic process,1/4,27/16344,0.0065921768067087605,0.04945901365652417,LRTOMT
+Down-regulated,GO:0042402,cellular biogenic amine catabolic process,1/4,27/16344,0.0065921768067087605,0.04945901365652417,LRTOMT
+Down-regulated,GO:0009310,amine catabolic process,1/4,28/16344,0.0068357038823216865,0.04945901365652417,LRTOMT
+Down-regulated,GO:0007616,long-term memory,1/4,36/16344,0.008782308976935327,0.04945901365652417,CAMK4
+Down-regulated,GO:0042491,inner ear auditory receptor cell differentiation,1/4,36/16344,0.008782308976935327,0.04945901365652417,LRTOMT
+Down-regulated,GO:0042417,dopamine metabolic process,1/4,41/16344,0.009997483157669018,0.04945901365652417,LRTOMT
+Down-regulated,GO:0060119,inner ear receptor cell development,1/4,42/16344,0.010240383854925539,0.04945901365652417,LRTOMT
+Down-regulated,GO:1901381,positive regulation of potassium ion transmembrane transport,1/4,42/16344,0.010240383854925539,0.04945901365652417,LRRC55
+Down-regulated,GO:0035315,hair cell differentiation,1/4,44/16344,0.01072605115442693,0.04945901365652417,LRTOMT
+Down-regulated,GO:0097028,dendritic cell differentiation,1/4,44/16344,0.01072605115442693,0.04945901365652417,CAMK4
+Down-regulated,GO:0043268,positive regulation of potassium ion transport,1/4,49/16344,0.011939437438196254,0.04967156115620711,LRRC55
+Down-regulated,GO:0006584,catecholamine metabolic process,1/4,57/16344,0.013878533364577339,0.04967156115620711,LRTOMT
+Down-regulated,GO:0009712,catechol-containing compound metabolic process,1/4,57/16344,0.013878533364577339,0.04967156115620711,LRTOMT
+Down-regulated,GO:0060113,inner ear receptor cell differentiation,1/4,57/16344,0.013878533364577339,0.04967156115620711,LRTOMT
+Down-regulated,GO:1901016,regulation of potassium ion transmembrane transporter activity,1/4,58/16344,0.014120719517124791,0.04967156115620711,LRRC55
+Down-regulated,GO:0045670,regulation of osteoclast differentiation,1/4,59/16344,0.014362861057216514,0.04967156115620711,CAMK4
+Up-regulated,GO:0002227,innate immune response in mucosa,1/2,23/16344,0.00281259414660906,0.026121177451124133,H2BC6
+Up-regulated,GO:0002385,mucosal immune response,1/2,33/16344,0.004034225720765949,0.026121177451124133,H2BC6
+Up-regulated,GO:0002251,organ or tissue specific immune response,1/2,36/16344,0.0044005691857458284,0.026121177451124133,H2BC6
+Up-regulated,GO:0019731,antibacterial humoral response,1/2,45/16344,0.005499195252868239,0.026121177451124133,H2BC6
+Up-regulated,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,1/2,61/16344,0.007450810750651571,0.02831308085247597,H2BC6
+Up-regulated,GO:0050830,defense response to Gram-positive bacterium,1/2,83/16344,0.01013115226329675,0.030472230117311944,H2BC6
+Up-regulated,GO:0019730,antimicrobial humoral response,1/2,92/16344,0.011226611095851768,0.030472230117311944,H2BC6
+Up-regulated,GO:0006334,nucleosome assembly,1/2,107/16344,0.01305102805738545,0.030996191636290443,H2BC6
+Up-regulated,GO:0034728,nucleosome organization,1/2,138/16344,0.01681615115319257,0.03379459275338579,H2BC6
+Up-regulated,GO:0043484,regulation of RNA splicing,1/2,146/16344,0.01778662776493989,0.03379459275338579,AKAP17A
+Up-regulated,GO:0065004,protein-DNA complex assembly,1/2,182/16344,0.022147842376484483,0.03525901045289233,H2BC6
+Up-regulated,GO:0031497,chromatin assembly,1/2,183/16344,0.022268848707089894,0.03525901045289233,H2BC6
+Up-regulated,GO:0071824,protein-DNA complex subunit organization,1/2,214/16344,0.02601633112998636,0.03802386857459544,H2BC6
+Up-regulated,GO:0006338,chromatin remodeling,1/2,243/16344,0.029515526322953844,0.03921806114988049,H2BC6
+Up-regulated,GO:0006959,humoral immune response,1/2,255/16344,0.03096162722358986,0.03921806114988049,H2BC6
+Up-regulated,GO:0042742,defense response to bacterium,1/2,277/16344,0.03361001186357737,0.03991188908799813,H2BC6
+Up-regulated,GO:0042113,B cell activation,1/2,300/16344,0.036374902815316745,0.04065430314653048,AKAP17A

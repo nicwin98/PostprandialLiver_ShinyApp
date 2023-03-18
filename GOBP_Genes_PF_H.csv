@@ -1,0 +1,14 @@
+Genes,ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,geneID
+Down-regulated,GO:0043567,regulation of insulin-like growth factor receptor signaling pathway,2/9,19/15901,4.8455099469882935e-5,0.02277389675084498,IGF1/IGFBP1
+Down-regulated,GO:0048009,insulin-like growth factor receptor signaling pathway,2/9,32/15901,1.4001264335775993e-4,0.032902971189073586,IGF1/IGFBP1
+Down-regulated,GO:0050708,regulation of protein secretion,3/9,224/15901,2.1763501993320216e-4,0.03409615312286834,IGF1/SLC16A1/ICA1
+Down-regulated,GO:0009306,protein secretion,3/9,314/15901,5.865354030822326e-4,0.03621534215169592,IGF1/SLC16A1/ICA1
+Down-regulated,GO:0035592,establishment of protein localization to extracellular region,3/9,315/15901,5.920059157261772e-4,0.03621534215169592,IGF1/SLC16A1/ICA1
+Down-regulated,GO:0055013,cardiac muscle cell development,2/9,66/15901,5.994818560838758e-4,0.03621534215169592,IGF1/ADPRHL1
+Down-regulated,GO:0042246,tissue regeneration,2/9,67/15901,6.177459584848852e-4,0.03621534215169592,IGF1/IGFBP1
+Down-regulated,GO:0071692,protein localization to extracellular region,3/9,320/15901,6.198527168197029e-4,0.03621534215169592,IGF1/SLC16A1/ICA1
+Down-regulated,GO:0055006,cardiac cell development,2/9,71/15901,6.93485275245241e-4,0.03621534215169592,IGF1/ADPRHL1
+Down-regulated,GO:0060419,heart growth,2/9,77/15901,8.151164459866503e-4,0.03831047296137256,IGF1/ADPRHL1
+Up-regulated,GO:0010675,regulation of cellular carbohydrate metabolic process,4/21,137/15901,2.8166895142788094e-5,0.020478305782612397,PPP1R3C/DDIT4/SLC45A3/MIDN
+Up-regulated,GO:0062012,regulation of small molecule metabolic process,5/21,310/15901,4.293145866375765e-5,0.020478305782612397,PPP1R3C/DDIT4/SLC45A3/MID1IP1/MIDN
+Up-regulated,GO:0006109,regulation of carbohydrate metabolic process,4/21,170/15901,6.547975424878134e-5,0.020822561851112465,PPP1R3C/DDIT4/SLC45A3/MIDN
